@@ -61,3 +61,4 @@ uploads
 tmp
 dump.rdb
 processed-assets
+.next
